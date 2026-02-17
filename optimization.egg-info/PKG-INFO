@@ -1,0 +1,12 @@
+Metadata-Version: 2.4
+Name: optimization
+Version: 0.1.0
+Summary: Add your description here
+Requires-Python: >=3.11
+Description-Content-Type: text/markdown
+Requires-Dist: matplotlib>=3.10.8
+Requires-Dist: numpy>=2.4.2
+Requires-Dist: seaborn>=0.13.2
+Requires-Dist: sympy>=1.14.0
+
+# optimization-dtu
