@@ -27,16 +27,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2026-02-13.md",
+                "file": "lecture notes/2026-03-03.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2026-02-13"
+              "title": "2026-03-03"
+            }
+          },
+          {
+            "id": "8b3d4f8f7e42c664",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "lecture notes/2026-03-10.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2026-03-10"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -59,7 +73,7 @@
                 "autoReveal": false
               },
               "icon": "lucide-folder-closed",
-              "title": "Files"
+              "title": "Stifinder"
             }
           },
           {
@@ -189,22 +203,24 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
-      "templates:Insert template": false,
-      "command-palette:Open command palette": false,
-      "bases:Create new base": false
+      "switcher:Åbn hurtig skifter": false,
+      "graph:Åbn grafvisning": false,
+      "canvas:Opret nyt lærred": false,
+      "daily-notes:Åbn dagens note": false,
+      "templates:Indsæt skabelon": false,
+      "command-palette:Åbn fastgjorte kommandoer": false,
+      "bases:Opret ny base": false
     }
   },
-  "active": "374956b65a2894d5",
+  "active": "8b3d4f8f7e42c664",
   "lastOpenFiles": [
-    "Untitled.base",
-    "2026-02-13.md",
-    "Untitled.canvas",
+    "lecture notes/2026-02-03 - w1.md",
+    "lecture notes/2026-03-10.md",
+    "lecture notes/2026-02-13.md",
+    "lecture notes/2026-03-03.md",
     "Base.base",
-    "2026-02-03 - w1.md",
+    "Untitled.canvas",
+    "Untitled.base",
     "test.md",
     "week1/Lecture 1.md",
     "lecture notes",
